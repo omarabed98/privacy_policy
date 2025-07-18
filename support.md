@@ -26,10 +26,5 @@ If you encounter any issues using the app or website, please contact us for tech
 
 ## 📞 Contact Us  
 - **Email:** [support@asfourdelivery.com](mailto:support@asfourdelivery.com)  
-- **Phone:** +1-800-ASF-DELIV  
+- **Phone:** +971 56 900 0264
 - **Live Chat:** Available 9am–6pm (Mon–Fri)
-
----
-
-## ❓ FAQs  
-Find quick answers to common questions on our [FAQ page](https://yourwebsite.com/faq).
