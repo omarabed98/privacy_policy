@@ -1,0 +1,10 @@
+Since you don’t have a specific delete page, you can use email as the deletion method:
+
+**English (for policy / store form):**
+Users can request deletion of their account and personal data by contacting us at **[support@shabab.com](mailto:support@shabab.com)**.
+
+**If you must provide a URL (e.g. Play Console “delete_url_ecommerce” field):**
+Use a placeholder like:
+`https://shabab.com/delete-account`
+
+And on that page (when you create it), simply explain that users can email **[support@shabab.com](mailto:support@shabab.com)** to delete their account and data.
